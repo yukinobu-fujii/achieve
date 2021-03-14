@@ -1,2 +1,3 @@
+conflict.md
 ＃ Gitチュートリアル
 -debelop
